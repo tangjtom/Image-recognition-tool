@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WinformORC\APICALL\bin\Debug\APICALL.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WinformORC\APICALL\bin\Debug\APICALL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WinformORC\APICALL\bin\Debug\LitJSON.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WinformORC\APICALL\obj\Debug\APICALL.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WinformORC\APICALL\obj\Debug\APICALL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WinformORC\APICALL\obj\Debug\APICALL.csprojResolveAssemblyReference.cache

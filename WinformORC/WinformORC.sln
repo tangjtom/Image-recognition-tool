@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformORC", "WinformORC\WinformORC.csproj", "{A9EC6DC4-E568-48E0-B477-06B71067B32E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICALL", "APICALL\APICALL.csproj", "{FCD50A03-5BAE-47EA-8F1E-C068BE4C33D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "DAL\Entity.csproj", "{466B4F41-0E79-46FD-AE59-B1929AE214F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9EC6DC4-E568-48E0-B477-06B71067B32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EC6DC4-E568-48E0-B477-06B71067B32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EC6DC4-E568-48E0-B477-06B71067B32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EC6DC4-E568-48E0-B477-06B71067B32E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD50A03-5BAE-47EA-8F1E-C068BE4C33D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD50A03-5BAE-47EA-8F1E-C068BE4C33D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD50A03-5BAE-47EA-8F1E-C068BE4C33D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD50A03-5BAE-47EA-8F1E-C068BE4C33D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466B4F41-0E79-46FD-AE59-B1929AE214F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466B4F41-0E79-46FD-AE59-B1929AE214F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466B4F41-0E79-46FD-AE59-B1929AE214F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466B4F41-0E79-46FD-AE59-B1929AE214F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

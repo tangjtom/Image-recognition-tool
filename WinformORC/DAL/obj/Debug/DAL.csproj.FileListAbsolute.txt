@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\WinformORC\DAL\bin\Debug\DAL.dll
+c:\users\administrator\documents\visual studio 2013\Projects\WinformORC\DAL\bin\Debug\DAL.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WinformORC\DAL\bin\Debug\LitJSON.dll
+c:\users\administrator\documents\visual studio 2013\Projects\WinformORC\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\WinformORC\DAL\obj\Debug\DAL.dll
+c:\users\administrator\documents\visual studio 2013\Projects\WinformORC\DAL\obj\Debug\DAL.pdb
